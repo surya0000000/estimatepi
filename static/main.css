@@ -1,0 +1,28 @@
+
+ 
+ html{
+ background-color:#fff;
+ }
+ 
+ body {
+ background-color: #def;
+ width:50%;
+ border: 1px solid black;
+ margin:5pt;
+ padding:10pt;
+ }
+ 
+ h1{
+ font-variant:small-caps;
+ border-bottom:3px double #bbb;
+ }
+ 
+ 
+ p{
+ border-left:3px solid #bfa;
+ border-right: 3px solid #aba;
+}
+
+p:hover{
+background-color: #999;
+}
